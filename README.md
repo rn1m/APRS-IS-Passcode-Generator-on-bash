@@ -28,3 +28,8 @@ https://github.com/t52ta6ek/aprspass
 
 Currently created as a separate script, written for integration into a number of stand-alone applications
 for BPQ, there will be separate repositories.
+
+### Contact
+Packet radio: RN1M@RN1M.SPB.RUS.EU
+Winlink email: RN1M <at> winlink.org
+Sergey, RN1M 73!
